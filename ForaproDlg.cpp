@@ -3,7 +3,7 @@
 //
 
 #include "stdafx.h"
-#include "Forapro.h"
+#include "ForaproApp.h"
 #include "ForaproDlg.h"
 
 #ifdef _DEBUG
